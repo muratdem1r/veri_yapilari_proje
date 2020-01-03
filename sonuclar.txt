@@ -1,0 +1,16 @@
+# "anlatim" verisi metin.txt'de 48 tane bulundu, 0.005 saniyede arama gerceklesti.
+# "anlatim bakimindan" verisi metin.txt'de 12 tane bulundu, 0.007 saniyede arama gerceklesti.
+# "Metindeki paragraflar" verisi metin.txt'de 6 tane bulundu, 0.004 saniyede arama gerceklesti.
+# "metinn" verisi metin.txt'de 0 tane bulundu, 0.004 saniyede arama gerceklesti.
+Bunu mu demek istediniz?: "metin" 78 tane bulundu, 0.092 saniyede arama gerceklesti.
+# "yazy" verisi metin.txt'de 0 tane bulundu, 0.004 saniyede arama gerceklesti.
+Bunu mu demek istediniz?: "yaz" 228 tane bulundu, 1.939 saniyede arama gerceklesti.#
+# "deneme" verisi metin.txt'de 0 tane bulundu, 0.005 saniyede arama gerceklesti.
+Bunu mu demek istediniz?: "donemde" 6 tane bulundu, 117.988 saniyede arama gerceklesti.
+# "yurt" verisi metin.txt'de 30 tane bulundu, 0.005 saniyede arama gerceklesti.
+# "yurt" verisi metin.txt'de 30 tane bulundu, 0.006 saniyede arama gerceklesti.
+# "yurt" verisi metin.txt'de 30 tane bulundu, 0.006 saniyede arama gerceklesti.
+# "murat" verisi metin.txt'de 0 tane bulundu, 0.004 saniyede arama gerceklesti.
+Bunu mu demek istediniz?: "yurt" 30 tane bulundu, 27.666 saniyede arama gerceklesti.
+# "burak" verisi metin.txt'de 0 tane bulundu, 0.005 saniyede arama gerceklesti.
+Bunu mu demek istediniz?: "buruk" 6 tane bulundu, 22.122 saniyede arama gerceklesti.
